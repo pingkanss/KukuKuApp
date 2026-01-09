@@ -1,5 +1,10 @@
 # 💅 KukuKu – Nail Diseases Detection App
 
+## Our Logo Apps
+<p align="center">
+  <img src="./Image/logo_KukuKu.png">
+</p>
+
 KukuKu is a machine learning–based application designed to detect nail diseases from nail images, helping users recognize potential nail health issues early.
 
 ---
