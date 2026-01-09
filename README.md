@@ -36,12 +36,3 @@ Disease detection based on nail conditions is a machine learning project to crea
 
 ---
 
-## 📂 Project Structure
-```text
-KukuKu/
-│── data/              # Dataset (images)
-│── notebooks/         # Google Colab
-│── models/            # Trained models
-│── src/               # Source code
-│── results/           # Visualizations & outputs
-│── README.md
